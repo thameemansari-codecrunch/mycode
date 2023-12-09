@@ -33,8 +33,6 @@ int main() {
             cout << "Congratulations! You guessed the number in " << attempts << " attempts." << endl;
         }
 
-    } while (guess != secretNumber);
-
     return 0;
 }
 MY UNDERSTANDING POINT VIEW:
